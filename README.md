@@ -14,10 +14,3 @@ For the frontend, **Gradio** is used, which allows image upload and prediction d
 - Gradio
 
 ---
-
-## 🚀 How to Run Locally
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/JulijanaMilosavljevic/Image-Classification---Cats-vs-Dogs-Collab.git
-cd cat-vs-dog-classifier
